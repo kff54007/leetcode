@@ -118,8 +118,10 @@
     <ClInclude Include="leetcode.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LongestPalindromicSubstring.cpp" />
-    <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
+    <ClCompile Include="7_ReverseInteger.cpp" />
+    <ClCompile Include="8_StringToInteger.cpp" />
+    <ClCompile Include="9_PalindromeNumber.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

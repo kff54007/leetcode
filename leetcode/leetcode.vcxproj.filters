@@ -20,10 +20,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LongestPalindromicSubstring.cpp">
+    <ClCompile Include="5_LongestPalindromicSubstring.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ReverseInteger.cpp">
+    <ClCompile Include="7_ReverseInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8_StringToInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9_PalindromeNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

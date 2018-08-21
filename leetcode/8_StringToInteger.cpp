@@ -3,6 +3,8 @@
 int myAtoi(std::string str) {
 	int pos = str.find_first_not_of(" ");
 	int sign = 1, result = 0;
+	if (pos == std::string::npos && !str.empty())
+		pos = 0;
 	if (str[pos] == '-' || str[pos] == '+')
 	{
 		sign = str[pos++] == '-' ? -1 : 1;
@@ -19,6 +21,6 @@ int myAtoi(std::string str) {
 }
 //int main()
 //{
-//	int result = myAtoi("-+1 a");
+//	int result = myAtoi(" ");
 //	return 0;
 //}

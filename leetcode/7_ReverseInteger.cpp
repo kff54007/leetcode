@@ -21,9 +21,9 @@ static const auto io_sync_off = []() {
 	return nullptr;
 }();
 
-int main()
-{
-	std::cout << reverseInt32(1000000009);
-	system("pause");
-	return 0;
-}
+//int main()
+//{
+//	std::cout << reverseInt32(1000000009);
+//	system("pause");
+//	return 0;
+//}
