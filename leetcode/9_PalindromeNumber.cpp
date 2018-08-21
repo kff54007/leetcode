@@ -10,8 +10,8 @@ bool isPalindrome(int x) {
 	return x == y || y / 10 == x;
 }
 
-int main()
-{
-	isPalindrome(123);
-	return 0;
-}
+//int main()
+//{
+//	isPalindrome(123);
+//	return 0;
+//}
