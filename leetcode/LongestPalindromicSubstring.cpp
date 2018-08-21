@@ -1,4 +1,3 @@
-//#include "leetcode.h"
 #include <string>
 #include <algorithm>
 
@@ -22,13 +21,14 @@ std::string longestPalindrome(std::string s) {
 			end = i + len / 2;
 		}
 	}
+	INT_MAX;
 	return s.substr(start, end + 1);
 }
 
 
-int main()
-{
-	std::string a("redabawwoabccba");
-	auto result = longestPalindrome(a);
-	return 0;
-}
+//int main()
+//{
+//	std::string a("redabawwoabccba");
+//	auto result = longestPalindrome(a);
+//	return 0;
+//}
