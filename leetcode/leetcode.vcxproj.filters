@@ -32,5 +32,14 @@
     <ClCompile Include="9_PalindromeNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_ContainerWithMostWatercpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_IntegerToRoman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_RomanToInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
