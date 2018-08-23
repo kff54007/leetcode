@@ -121,6 +121,7 @@
     <ClCompile Include="11_ContainerWithMostWatercpp.cpp" />
     <ClCompile Include="12_IntegerToRoman.cpp" />
     <ClCompile Include="13_RomanToInteger.cpp" />
+    <ClCompile Include="14_ongestCommonPrefix.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />
