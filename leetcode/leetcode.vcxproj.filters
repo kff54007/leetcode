@@ -44,5 +44,14 @@
     <ClCompile Include="14_ongestCommonPrefix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="16_3SumClosest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_4Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_LetterCombinationsOfaPhoneNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
