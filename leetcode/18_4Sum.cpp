@@ -38,9 +38,9 @@ vector<vector<int>> fourSum(vector<int>& nums, int target) {
 	return result;
 }
 
-int main()
-{
-	std::vector<int> y{ -2,-1,0,0,1,2 };
-	auto tt = fourSum(y,0);
-	return 0;
-}
+//int main()
+//{
+//	std::vector<int> y{ -2,-1,0,0,1,2 };
+//	auto tt = fourSum(y,0);
+//	return 0;
+//}

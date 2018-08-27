@@ -56,5 +56,11 @@
     <ClCompile Include="18_4Sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19_RemoveNthNodeFromEndOfList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_ValidParentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
