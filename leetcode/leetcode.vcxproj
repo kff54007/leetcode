@@ -123,8 +123,9 @@
     <ClCompile Include="13_RomanToInteger.cpp" />
     <ClCompile Include="14_ongestCommonPrefix.cpp" />
     <ClCompile Include="16_3SumClosest.cpp" />
-    <ClCompile Include="15_4Sum.cpp" />
+    <ClCompile Include="15_3Sum.cpp" />
     <ClCompile Include="17_LetterCombinationsOfaPhoneNumber.cpp" />
+    <ClCompile Include="18_4Sum.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />

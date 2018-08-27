@@ -2,7 +2,9 @@
 #include <vector>
 #include <array>
 std::vector<std::string> letterCombinations(std::string digits) {
-	std::array<std::string, 10> dic{ "","","abc","def","ght","jkl","mno","pqrs","tuv","wxyz" };
+	if (digits.empty())
+		return std::vector<std::string>{};
+	std::array<std::string, 10> dic{ "","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz" };
 	std::vector<std::string> result{ "" };
 	for (const auto& digit : digits)
 	{
@@ -15,8 +17,8 @@ std::vector<std::string> letterCombinations(std::string digits) {
 	return result;
 }
 
-int main()
-{
-	letterCombinations("23");
-		return 0;
-}
+//int main()
+//{
+//	letterCombinations("23");
+//	return 0;
+//}
