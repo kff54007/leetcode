@@ -62,5 +62,8 @@
     <ClCompile Include="20_ValidParentheses.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21_MergeTwoSortedLists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

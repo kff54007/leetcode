@@ -40,8 +40,8 @@ bool isValid(std::string s) {
 	}
 	return tmp.empty();
 }
-int main()
-{
-	isValid("]");
-	return 0;
-}
+//int main()
+//{
+//	isValid("]");
+//	return 0;
+//}
