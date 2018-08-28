@@ -28,7 +28,7 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
 		end->next = l1;
 	return head.next;
 }
-int main()
-{
-	return 0;
-}
+//int main()
+//{
+//	return 0;
+//}
