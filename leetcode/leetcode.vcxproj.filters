@@ -68,5 +68,8 @@
     <ClCompile Include="22_GenerateParentheses.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24_SwapNodesInPairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -129,6 +129,7 @@
     <ClCompile Include="19_RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="20_ValidParentheses.cpp" />
     <ClCompile Include="21_MergeTwoSortedLists.cpp" />
+    <ClCompile Include="24_SwapNodesInPairs.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />

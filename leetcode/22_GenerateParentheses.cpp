@@ -15,8 +15,9 @@ vector<string> generateParenthesis(int n)
 				result.push_back("(" + inner + ")" + outer);
 	return result;
 }
-int main()
-{
-	auto t = generateParenthesis(3);
-	return 0;
-}
+
+//int main()
+//{
+//	auto t = generateParenthesis(3);
+//	return 0;
+//}
