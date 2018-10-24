@@ -7,7 +7,7 @@
 * };
 */
 #include <iostream>
-class Solution {
+class Solution24 {
 public:
 	struct ListNode {
 		int val;

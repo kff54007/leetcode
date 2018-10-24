@@ -1,6 +1,6 @@
 #include <vector>
 using std::vector;
-class Solution {
+class Solution26 {
 public:
 	int removeDuplicates(vector<int>& nums) {
 		if (nums.size() == 0)
