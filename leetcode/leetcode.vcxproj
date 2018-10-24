@@ -131,6 +131,7 @@
     <ClCompile Include="21_MergeTwoSortedLists.cpp" />
     <ClCompile Include="24_SwapNodesInPairs.cpp" />
     <ClCompile Include="26_RemoveDuplicatesFromSortedArray.cpp" />
+    <ClCompile Include="27_RemoveElement.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />
