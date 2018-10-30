@@ -25,9 +25,9 @@ public:
 	//KMP
 	//...
 };
-int main()
-{
-	Solution28 a;
-	a.strStr("abb", "abaaa");
-	return 0;
-}
+//int main()
+//{
+//	Solution28 a;
+//	a.strStr("abb", "abaaa");
+//	return 0;
+//}
