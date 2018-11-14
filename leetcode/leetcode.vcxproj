@@ -134,6 +134,7 @@
     <ClCompile Include="27_RemoveElement.cpp" />
     <ClCompile Include="28_Implement_strStr().cpp" />
     <ClCompile Include="31_NextPermutation.cpp" />
+    <ClCompile Include="33_SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />

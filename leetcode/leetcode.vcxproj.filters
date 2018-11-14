@@ -83,5 +83,8 @@
     <ClCompile Include="31_NextPermutation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33_SearchInRotatedSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
