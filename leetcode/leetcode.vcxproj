@@ -136,6 +136,7 @@
     <ClCompile Include="31_NextPermutation.cpp" />
     <ClCompile Include="33_SearchInRotatedSortedArray.cpp" />
     <ClCompile Include="34.Find First and Last Position of Element in Sorted Array.cpp" />
+    <ClCompile Include="35. Search Insert Position.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />
