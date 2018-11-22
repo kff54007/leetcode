@@ -138,6 +138,7 @@
     <ClCompile Include="34.Find First and Last Position of Element in Sorted Array.cpp" />
     <ClCompile Include="35. Search Insert Position.cpp" />
     <ClCompile Include="36. Valid Sudoku.cpp" />
+    <ClCompile Include="38. Count and Say.cpp" />
     <ClCompile Include="5_LongestPalindromicSubstring.cpp" />
     <ClCompile Include="7_ReverseInteger.cpp" />
     <ClCompile Include="8_StringToInteger.cpp" />

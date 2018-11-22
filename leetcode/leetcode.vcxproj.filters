@@ -95,5 +95,8 @@
     <ClCompile Include="36. Valid Sudoku.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="38. Count and Say.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
