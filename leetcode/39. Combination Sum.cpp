@@ -78,9 +78,9 @@ public:
 
 
 
-int main()
-{
-	Solution39 a;
-	auto t = a.combinationSum2({ 2,3,5 }, 8);
-	return 0;
-}
+//int main()
+//{
+//	Solution39 a;
+//	auto t = a.combinationSum2({ 2,3,5 }, 8);
+//	return 0;
+//}
